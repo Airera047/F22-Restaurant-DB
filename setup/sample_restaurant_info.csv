@@ -1,0 +1,9 @@
+restaurant_id,Name,Address,Email,Phone,Category
+xxx000,Happy Hot Hunan,"969 Amsterdam Ave, New York, NY 10025",hhh@gmail.com,(212) 531-1786,Chinese
+xxx001,McDonald,"2794 Broadway, New York, NY 10025",md@gmail.com,(212) 222-8714,American
+xxx002,Subway,"2508 Broadway, New York, NY 10025",sub@gmail.com,(212) 665-6700,American
+xxx003,Kura,"130 St Marks Pl, New York, NY 10003",kura@gmail.com,(212) 228-1010,Japanese
+xxx004,Sala Thai,"307 Amsterdam Ave, New York, NY 10023",st@gmail.com,(212) 433-3999,Thai
+xxx005,Genki,"552 LaGuardia Pl #4, New York, NY 10012",genki@gmail.com,(347) 618-2866,Japanese
+xxx006,Up Thai,"1411 2nd Ave, New York, NY 10021",ut@gmail.com,(212) 256-1199,Thai
+xxx007,108 Food Dried Hot Pot,"2794 Broadway, New York, NY 10025",108@gmail.com,(917) 675-6878,Chinese

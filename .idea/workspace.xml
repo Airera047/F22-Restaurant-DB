@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f58af389-a410-4451-af47-ff40f5336327" name="Changes" comment="" />
+    <list default="true" id="f58af389-a410-4451-af47-ff40f5336327" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a7509307-3028-4b0d-ae3e-d05f4b75b007.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a7509307-3028-4b0d-ae3e-d05f4b75b007.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.ipynb_checkpoints/Setup-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/setup/.ipynb_checkpoints/Setup-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/Setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/setup/Setup.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +30,12 @@
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/airera/Desktop/6156 Cloud Computing/F22-Starter-DB"
+    "last_opened_file_path": "/Users/airera/Desktop/6156 Cloud Computing/F22-Restaurant-DB"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunDashboard">
